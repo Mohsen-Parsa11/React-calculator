@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+:root{
+    --primary: #d81e5b;
+    --dark: #131a26;
+}
+
+.calcs{
+    background: var(--primary);
+}
+.calculator{
+    background: var(--dark);
+}
+
+
+body{
+    background-color: rgb(60, 166, 236)
+}
